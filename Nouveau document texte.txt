@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "commit 1"
+git remote add origin https://github.com/mitmog4ever/TEST.git
+git push -u origin master
+
+
+------
+git pull origin master from
